@@ -1,0 +1,18 @@
+*** Variables ***
+${a}	100
+${b}	200
+${c}	300
+${d}	400
+
+*** Test Cases ***
+TC_01
+	Should be equal	${a}	100
+
+TC_01
+	Should be equal	${b}	200
+
+TC_01
+	Should be equal	${c}	300
+
+TC_01
+	Should be equal	${d}	400
