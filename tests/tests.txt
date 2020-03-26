@@ -8,11 +8,11 @@ ${d}	400
 TC_01
 	Should be equal	${a}	100
 
-TC_01
+TC_02
 	Should be equal	${b}	200
 
-TC_01
+TC_03
 	Should be equal	${c}	300
 
-TC_01
+TC_04
 	Should be equal	${d}	400
